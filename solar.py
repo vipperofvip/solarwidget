@@ -1,9 +1,10 @@
 import requests
 
-api_key = '3987235V4KP9W0ORGUPD7LS5YHA6TBV'
+api_key = '9W5YEA6PD7LE5V4TARM4GUKP0ORHSTBV'
+site_id = '111111'
 
 try:
-    r = requests.get('https://monitoringapi.solaredge.com/site/481902/overview.json?api_key=%s' % (api_key,))
+    r = requests.get('https://monitoringapi.solaredge.com/site/%s/overview.json?api_key=%s' % (site_id,api_key))
     data = r.json()
     current = data['overview']['currentPower']['power']/1000
     day = data['overview']['lastDayData']['energy']/1000
