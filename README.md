@@ -30,15 +30,17 @@ Change the api_key and site_id values to what was provided by your inverter inst
     except Exception as e:
         print('Problem: %s' % (e,))
 
-2. Verify that the script can get the data it needs about your inverter's production.
+2. Verify that the script can get the data it needs about your inverter's production
 
-Use the 'Terminal' application to run the script like below. The command is 'python solar.py' and it should output the power and energy of your inverter for that day so far.
+Use the 'Terminal' application to run the script like below. The command is `python solar.py` and it should output the power and energy of your inverter for that day so far.
 
     jay-mac:~ jajohnst$ python solar.py
     1.5 kW 5.4 kWh
     jay-mac:~ jajohnst$
 
+If your script produces an error, ensure the site_id and api_key have been correctly modified to match what were provided to you by your inverter installation.
+
+3. Launch the BetterTouchTool application, and under TouchBar, Create a new TouchBar Button
 
 
-
-nstall [BetterTouchTool](https://folivora.ai/)
+Install [BetterTouchTool](https://folivora.ai/)
