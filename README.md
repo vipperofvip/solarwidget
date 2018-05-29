@@ -8,7 +8,7 @@ Requirements
 
 * Mac laptop with Touch Bar
 * BetterTouchTool application installed
-* Your Solaredge API key
+* Your Solaredge API key (You might need to contact your installer for this)
 
 Installation Instructions
 -------------------------
