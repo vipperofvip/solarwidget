@@ -12,3 +12,4 @@ Requirements
 
 Installation Instructions
 -------------------------
+1. First, install [BetterTouchTool](https://folivora.ai/)
