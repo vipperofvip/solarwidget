@@ -40,7 +40,11 @@ Use the 'Terminal' application to run the script like below. The command is `pyt
 
 If your script produces an error, ensure the site_id and api_key have been correctly modified to match what were provided to you by your inverter installation.
 
-3. Launch the BetterTouchTool application, and under TouchBar, Create a new TouchBar Button
+3. Launch the BetterTouchTool application, and under TouchBar, Create a new Widget/Gesture
+
+4. Change the drop down titled 'Select Widget' to 'Run Apple Script and Show Return Value', then click 'Advanced Configuration'
+
+5. 
 
 
 Install [BetterTouchTool](https://folivora.ai/)
