@@ -1,6 +1,6 @@
 import requests
 
-api_key = '9W5YEA6PD7LE5V4TARM4GUKP0ORHSTBV'
+api_key = 'HA6PD7LRGUKP9WSTAE5V40ORM4E5YTBV'
 site_id = '111111'
 
 try:
@@ -9,5 +9,5 @@ try:
     current = data['overview']['currentPower']['power']/1000
     day = data['overview']['lastDayData']['energy']/1000
     print("{:.1f} kW {:.1f} kWh".format(current,day) )
-except Exception:
-    print('?')
+except Exception as e:
+    print('Problem: %s' % (e,))
