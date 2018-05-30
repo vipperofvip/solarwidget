@@ -42,9 +42,11 @@ If your script produces an error, ensure the site_id and api_key have been corre
 
 3. Launch the BetterTouchTool application, and under TouchBar, Create a new Widget/Gesture
 
-![Step 1](https://raw.githubusercontent.com/vipperofvip/solarwidget/master/instructions_step_1.png)
+![Screenshot 1](https://raw.githubusercontent.com/vipperofvip/solarwidget/master/instructions_step_1.png)
 
 4. Change the drop down titled 'Select Widget' to 'Run Apple Script and Show Return Value', then click 'Advanced Configuration'
+
+![Screenshot 2](https://raw.githubusercontent.com/vipperofvip/solarwidget/master/instructions_step_2.png)
 
 5. 
 
