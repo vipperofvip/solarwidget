@@ -10,7 +10,8 @@ Requirements
 
 * Mac laptop with Touch Bar
 * BetterTouchTool [BetterTouchTool](https://folivora.ai/) application already installed
-* Your Solaredge API key (You might need to contact your installer for this)
+* SolarEdge Inverter
+* Your Solaredge API key and site ID (You might need to contact your installer for this)
 
 Installation Instructions
 -------------------------
