@@ -3,6 +3,8 @@ solarwidget
 
 A widget for Mac using BetterTouchTool showing solar power and energy production for Mac
 
+![Widget](https://raw.githubusercontent.com/vipperofvip/solarwidget/master/widget.jpeg)
+
 Requirements
 ------------
 
