@@ -7,7 +7,7 @@ Requirements
 ------------
 
 * Mac laptop with Touch Bar
-* BetterTouchTool application installed
+* BetterTouchTool [BetterTouchTool](https://folivora.ai/) application already installed
 * Your Solaredge API key (You might need to contact your installer for this)
 
 Installation Instructions
@@ -46,9 +46,10 @@ If your script produces an error, ensure the site_id and api_key have been corre
 
 4. Change the drop down titled 'Select Widget' to 'Run Apple Script and Show Return Value', then click 'Advanced Configuration'
 
+Fill in the information as shown below (change the path of the file to reflect the file's location on your machine)
+
 ![Screenshot 2](https://raw.githubusercontent.com/vipperofvip/solarwidget/master/instructions_step_2.png)
 
 5. 
 
 
-Install [BetterTouchTool](https://folivora.ai/)
