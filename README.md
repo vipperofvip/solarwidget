@@ -48,8 +48,15 @@ If your script produces an error, ensure the site_id and api_key have been corre
 
 Fill in the information as shown below (change the path of the file to reflect the file's location on your machine)
 
+* Set the shell script path as shown in the picture, but modify the path to point to your home directory
+* Change the TouchBar Button Color, Icon and Alternate Icons to something meaningful
+* Under the section on the right 'Activate alternate color', that must be set to `0\.0 kW`
+* Change the 'Execute this script every x seconds' to at least 300 to ensure you don't hit the API too often and get blocked
+
 ![Screenshot 2](https://raw.githubusercontent.com/vipperofvip/solarwidget/master/instructions_step_2.png)
 
-5. 
+That should be it! Click Save, and the touchbar widget should appear.
+
+You can test that the script is able to be called from BetterTouchTool by clicking the 'Run Script' button within the editor window and the 'Result:' section should show current power and energy for the day.
 
 
